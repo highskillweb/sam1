@@ -349,7 +349,7 @@
 									<div class="item">
 										<div class="name">Shopify</div>
 										<div class="bar_outer">
-											<div class="bar_inner" data-width="98">
+											<div class="bar_inner" data-width="100">
 												<div class="text">100%</div>
 											</div>
 										</div>
@@ -357,7 +357,7 @@
 									<div class="item">
 										<div class="name">Laravel</div>
 										<div class="bar_outer">
-											<div class="bar_inner" data-width="90">
+											<div class="bar_inner" data-width="100">
 												<div class="text">100%</div>
 											</div>
 										</div>
@@ -365,7 +365,7 @@
 									<div class="item">
 										<div class="name">Magento</div>
 										<div class="bar_outer">
-											<div class="bar_inner" data-width="95">
+											<div class="bar_inner" data-width="100">
 												<div class="text">100%</div>
 											</div>
 										</div>
@@ -426,8 +426,8 @@
 									<div class="item">
 										<div class="name">D3.js</div>
 										<div class="bar_outer">
-											<div class="bar_inner" data-width="90">
-												<div class="text">90%</div>
+											<div class="bar_inner" data-width="100">
+												<div class="text">100%</div>
 											</div>
 										</div>
 									</div>
