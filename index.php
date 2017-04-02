@@ -201,7 +201,7 @@
 							<div class="testimonials cycle-slideshow" data-cycle-slides="div.testimonial">
 								<div class="testimonial current">
 									<div class="text">
-										Sam was such a pleasure to work with! He went above and beyond and finished all of our expectations way sooner than we expected. Communication was on point. We gave a list of requirements and he was able to resolve effectively and more importantly, on time. Our Shopify site is heavily customized with react.js and Fabio was able to figure things out right away. We will be using Fabio again in the future and would recommend to anyone out there.
+										Sam was such a pleasure to work with! He went above and beyond and finished all of our expectations way sooner than we expected. Communication was on point. We gave a list of requirements and he was able to resolve effectively and more importantly, on time. Our Shopify site is heavily customized with react.js and Sam was able to figure things out right away. We will be using Sam again in the future and would recommend to anyone out there.
 									</div>
 									<div class="client">
 										&dash; John
